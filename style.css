@@ -1,0 +1,21 @@
+/* Basic page styling */
+body{
+margin :0;
+padding : 40px 20px;
+background-color: #111111;
+font-family: #ffffff;
+text-align : center;
+}
+/* Main heading */
+h1{
+    color:#f5c76e;
+    font-size: 42px;
+    margin-top: 80px;
+
+}
+/* Paragraph */
+p{
+    color: #cccccc;
+    font-size: 18px;
+    line-height:1.6;
+}
